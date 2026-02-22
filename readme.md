@@ -129,8 +129,6 @@ Demo video available inside:
 
 
 /Media/Coverage_System_Demo.mp4
-> ![Coverage System Demo](./Media/Coverage_System_Demo.mp4)
-
 
 ---
 
