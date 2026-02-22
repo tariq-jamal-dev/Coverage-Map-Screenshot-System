@@ -1,0 +1,38 @@
+{
+
+  "carriers": {
+
+    "Verizon": {
+
+      "defaultPreset": "Metro",
+
+      "presets": [
+
+        { "name": "Street", "action": "ZoomIn", "steps": 3 },
+
+        { "name": "Neighborhood", "action": "ZoomIn", "steps": 0 },
+
+        { "name": "Metro", "action": "ZoomOut", "steps": 3 }
+
+      ],
+
+      "url": "https://www.verizon.com/coverage-map"
+
+    }
+
+  },
+
+
+
+  "output": {
+
+    "folderPath": "C:\\PAD\\CoverageCapture\\screenshots\\",
+
+    "clientLogFilePath": "C:\\PAD\\CoverageCapture\\logs\\client_summary.csv",
+
+    "developerLogFilePath": "C:\\PAD\\CoverageCapture\\logs\\developer_detailed.csv"
+
+  }
+
+}
+
